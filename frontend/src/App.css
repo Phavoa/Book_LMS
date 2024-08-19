@@ -1,0 +1,35 @@
+p,h1,h2,h3,h4,h5,h6,div {
+    font-family: "Source Sans 3", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+:root{
+  padding: 0px;
+  margin: 0px;
+}
+.icon:hover {
+  color: #D2402F;
+}
+
+.input-style {
+  border: none;
+  outline: none; 
+  padding: 8px;
+  font-size: 16px;
+}
+
+.input-style:focus {
+  border: 'none';
+}
+.paper_input:focus {
+  border: 2px solid black;
+}
+
+.link:hover {
+  opacity: 0.8 ;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
